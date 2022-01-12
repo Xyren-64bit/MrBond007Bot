@@ -16,7 +16,7 @@ Follow our channel to get instant updates abut new UPDATES and MODIFICATIONS by 
 
 
 # Deploy Bot to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hemantsachdeva/MrBond007Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xyren-64bit/MrBond007Bot)
 
 
 ## Contributing to the project
